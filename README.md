@@ -13,7 +13,7 @@ I built a trajectory generation algorithm that is able to autonomously navigate 
 The finalized algorithm is able to quickly generate a safe and optimal trajectory that allows a quadrotor to fly at speeds up to 3 meters per second.
 
 ![recording of live flight test with implemented algorithm](./media/live_flight_test.gif)
-![recorded position of quadrotor during live flight test](./media/blender_flight_test.gif)
+![pathh of quadrotor during live flight test](./media/flight_test_photo.png)
 
 
 # Navigation Functions
