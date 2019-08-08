@@ -8,6 +8,7 @@ Hello. This is my project for my internship at the Robotics, Aerospace, and Info
 I built a trajectory generation algorithm that is able to autonomously navigate a quadrotor through an obstacle-populated environment. I also built an accurate quadrotor simulation, however I also implemented this script on a live quadrotor in C. 
 
 ![finalized academic poster](./media/academic_poster.png)
+![quadrotor used](./media/quad.png)
 
 # Results
 The finalized algorithm is able to quickly generate a safe and optimal trajectory that allows a quadrotor to fly at speeds up to 3 meters per second.
